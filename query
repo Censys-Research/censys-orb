@@ -1,0 +1,2 @@
+host.services.protocol: "SOCKS" and host.services.labels.value: {"SOHO", "IOT"} and not host.autonomous_system.name: { "AMAZON-02", "AMAZON-AES", "AKAMAI-LINODE-AP Akamai Connected Cloud", "DIGITALOCEAN-ASN", "MICROSOFT-CORP-MSN-AS-BLOCK", "OVH", "ALIBABA-CN-NET Alibaba US Technology Co., Ltd.", "GOOGLE-CLOUD-PLATFORM", "ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.", "HWCLOUDS-AS-AP HUAWEI CLOUDS", "AS-VULTR", "HETZNER-AS", "TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited", "HWCSNET Huawei Cloud Service data center", "ORACLE-BMC-31898" }
+
